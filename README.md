@@ -1,14 +1,14 @@
-## Employee Performance & Workforce Analysis SQL
+# Employee Performance & Workforce Analysis SQL
 
-### Table Of Content
-- [Project Overview](project-overview)
-- [Tools](tools)
-- [Dataset](dataset)
-- [SQL Techniques Applied](sql-techniques-applied)
-- [Analysis Performed](analysis-performed)
-- [Key Findings](key-findings)
-- [Business Recommendation](business-recommendation)
-- [Conclusion](conclusion)
+## Table Of Content
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [Dataset](#dataset)
+- [SQL Techniques Applied](#sql-techniques-applied)
+- [Analysis Performed](#analysis-performed)
+- [Key Findings](#key-findings)
+- [Business Recommendation](#business-recommendation)
+- [Conclusion](#conclusion)
 
 ### Project Overview
 
